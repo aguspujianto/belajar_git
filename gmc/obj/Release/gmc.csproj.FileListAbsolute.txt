@@ -1,0 +1,12 @@
+C:\data\bernad\vs_insentive\gmc\gmc\bin\gmc.dll.config
+C:\data\bernad\vs_insentive\gmc\gmc\bin\gmc.dll
+C:\data\bernad\vs_insentive\gmc\gmc\bin\gmc.pdb
+C:\data\bernad\vs_insentive\gmc\gmc\obj\Release\gmc.dll
+C:\data\bernad\vs_insentive\gmc\gmc\obj\Release\gmc.pdb
+C:\data\bernad\vs_insentive\gmc\gmc\obj\Release\gmc.csprojResolveAssemblyReference.cache
+C:\data\Pak bernad\vs_insentive\gmc\gmc\bin\gmc.dll.config
+C:\data\Pak bernad\vs_insentive\gmc\gmc\bin\gmc.dll
+C:\data\Pak bernad\vs_insentive\gmc\gmc\bin\gmc.pdb
+C:\data\Pak bernad\vs_insentive\gmc\gmc\obj\Release\gmc.csprojResolveAssemblyReference.cache
+C:\data\Pak bernad\vs_insentive\gmc\gmc\obj\Release\gmc.dll
+C:\data\Pak bernad\vs_insentive\gmc\gmc\obj\Release\gmc.pdb
