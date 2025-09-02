@@ -114,7 +114,7 @@
           </div>
           <div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 px-xl-5 bg-light">
         <!-- Copyright -->
-        <div class="text-white mb-3 mb-md-0 bg-dark">
+        <div class="text-white mb-3 mb-md-0 bg-dark-subtle">
         Copyright © <%= DateTime.Now.Year.ToString() %>. All rights reserved.
         </div>
         <!-- Copyright -->

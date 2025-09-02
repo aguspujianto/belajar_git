@@ -1791,6 +1791,7 @@
     <Content Include="FrmBAPPeriode_Perinvoice_duadivisi.aspx" />
     <Content Include="FrmBAPPeriode_Perinvoice_duadivisiRev1.aspx" />
     <Content Include="FrmBudgetSales.aspx" />
+    <Content Include="FrmData.aspx" />
     <Content Include="FrmKetentuanBAP.aspx" />
     <Content Include="FrmLogin.aspx" />
     <Content Include="FrmReportBAP_CrosTab.aspx" />
@@ -2034,6 +2035,13 @@
     </Compile>
     <Compile Include="FrmBudgetSales.aspx.designer.cs">
       <DependentUpon>FrmBudgetSales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmData.aspx.cs">
+      <DependentUpon>FrmData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmData.aspx.designer.cs">
+      <DependentUpon>FrmData.aspx</DependentUpon>
     </Compile>
     <Compile Include="FrmKetentuanBAP.aspx.cs">
       <DependentUpon>FrmKetentuanBAP.aspx</DependentUpon>
